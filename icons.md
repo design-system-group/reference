@@ -52,15 +52,15 @@ description: >-
 
 ### Strokes and fills
 
-일관성이 가장 중요하다고 언급했던 것을 기억하라. fill 아이콘과 stroke 아이콘 두개를 나란히 보는 것은 매우 고통스럽다. 당신의 아이콘들이 모두 같은 방식으로 스타일링되었는지 확인하는 것은 매우 중요하다. 예를 들어, 어떤 것이 선택되어 있음을 보여주기 위해 fill 적용 사례를 사용할 수 있지만, 한 스타일로 세트를 만들고 다른 변형을 만들기를 원할 수 있다.
+일관성이 가장 중요하다고 언급했던 것을 기억하라. filled 아이콘과 stroked 아이콘 두개를 나란히 보는 것은 매우 고통스럽다. 당신의 아이콘들이 모두 같은 방식으로 스타일링되었는지 확인하는 것은 매우 중요하다. 예를 들어, 어떤 것이 선택되어 있음을 보여주기 위해 filled 아이콘 적용 사례를 사용할 수 있지만, 한 스타일로 세트를 만들고 다른 변형을 만들기를 원할 수 있다.
 
-일반적으로 fill 아이콘은 인식성이 더 높다. stroke 아이콘은 작은 디테일을 만드는 데 뛰어나다. 어떤 스타일이 더 적합한지 선택할 때는 전체적인 브랜드도 고려해야 한다.
+일반적으로 filled 아이콘은 인식성이 더 높다. stroked 아이콘은 작은 디테일을 만드는 데 뛰어나다. 어떤 스타일이 더 적합한지 선택할 때는 전체적인 브랜드도 고려해야 한다.
 
-stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. stroke 사이의 여백이 stroke 두보다 얇지 않도록 권한다.
+stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. stroked 사이의 여백이 stroke 두께보다 얇지 않도록 권한다.
 
 ![Distance between stokes should reflect stroke weight whenever possible](.gitbook/assets/10-trash.png)
 
-한 가지 스타일은 충족하지만 다른 스타일은 충족시키지 못하는 아이콘 세트가 있을 수 있다. stroke 아이콘의 fill 버전을 만든다면 라인 작업을 단순화하는 것이 필요하다. 이상적으로 fill 아이콘은 반전된 stroke 아이콘이라기 보다는 그림자 같다. 반대로 fill 아이콘의 stroke 버전을 만드는 것은, 공간에 맞는 stroke 두와 명확성을 유지하면서 어떤 디테일을 추가할지를 결정해야 한다는 것을 의미한다.
+한 가지 스타일은 충족하지만 다른 스타일은 충족시키지 못하는 아이콘 세트가 있을 수 있다. stroked 아이콘의 filled 버전을 만든다면 라인 작업을 단순화하는 것이 필요하다. 이상적으로 filled 아이콘은 반전된 stroked 아이콘이라기 보다는 그림자 같다. 반대로 filled 아이콘의 stroked 버전을 만드는 것은, 공간에 맞는 stroke 두께와 명확성을 유지하면서 어떤 디테일을 추가할지를 결정해야 한다는 것을 의미한다.
 
 ![](.gitbook/assets/11-icons-style-options.png)
 
@@ -82,17 +82,33 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 * [Airbnb](https://www.zachroszczewski.com/airbnb/)
 * [Square](https://www.bonniekatewolf.com/icon-system.html/)
 
-## 디자인시스템에서 아이콘 사용하기
+## 디자인시스템과 아이콘
 
 다른 조직 구성원이 아이콘을 액세스할 수 있도록 하는 것은 조직, 어셋 관리 및 인지도의 관점에서 접근해야 한다.
 
-### 네이밍
+### 네이밍과 구성
 
-먼저 파일 이름부터 정하자다. 아이콘은 어떤 것을 나타내는지가\(represent\) 아니라 어떻게 보여지는지를\(show\) 기준으로 네이밍되어야 한다. 예를 들어, 스톱워치\(stopwatch\) 아이콘은 speed가 아니라 stopwatch라는 이름이 붙어야 한다. 전구\(lightbulb\)는 idea가 아니라 lightbulb라고 불러야 한다. 아이콘은 개념적인 수준에서 전달되는 것이 아니라, 즉시 사람들에게 그 아이콘이 무엇인지 명확히 전달되어야 한다. 짧은 이름도 더 좋다. 여러 단어가 필요할 경우 대시를 사용하여 단어를 구분하라. \(e.g. chef-hat\)
+먼저 파일 이름부터 정하자. 아이콘은 어떤 것을 나타내는지가\(represent\) 아니라 어떻게 보여지는지를\(show\) 기준으로 네이밍되어야 한다. 예를 들어, 스톱워치\(stopwatch\) 아이콘은 speed가 아니라 stopwatch라는 이름이 붙어야 한다. 전구\(lightbulb\)는 idea가 아니라 lightbulb라고 불러야 한다. 아이콘은 개념적인 수준에서 전달되는 것이 아니라, 즉시 사람들에게 그 아이콘이 무엇인지 명확히 전달되어야 한다. 짧은 이름이 더 좋다. 여러 단어가 필요할 경우 대시를 사용하여 단어를 구분하라. \(예: chef-hat\)
 
+아이콘에 variant를 추가할 때, 나는 Figma에서 아래와 같이 다룬다.
 
+#### 다양한 크기
 
+한 인스턴스에서 다른 인스턴스로 직접 전환하는 경우는 거의 없으므로 다른 페이지를 사용한다.
 
+#### Filled vs Stroked
+
+둘 다 사용한다면 아이콘 네이밍 뒤에 슬래시를 붙여서 구분한다.
+
+![Left: coffee/stroked. Right: coffee/filled](.gitbook/assets/24-coffees.png)
+
+#### 이미지 조정
+
+시각적 variant\(예: 여러 통화 표\)가 있는 아이콘이 있는 경우, filled 아이콘과 stroked 아이콘과 동일한 방법으로 이름을 지정하여 구별할 수 있다.
+
+![Original icon on left would be &apos;shield&apos;. Then, left to right, &apos;shield/dollar&apos;, &apos;shield/euro&apos;, &apos;shield/pound&apos;, &apos;shield/yen&apos;, &apos;shield/plus&apos;](.gitbook/assets/25-shields.png)
+
+### 어셋 관리
 
 
 
