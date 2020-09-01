@@ -1,7 +1,5 @@
 ---
-description: >-
-  이 문서는 A complete guide to
-  iconography(https://www.designsystems.com/iconography-guide/) 를 한글 의역한 문서입니다.
+description: '이 문서는 A complete guide to iconography(https://bre.is/HA9kEWEy) 를 한글 의역한 문서입니다.'
 ---
 
 # iconography 이해하기
