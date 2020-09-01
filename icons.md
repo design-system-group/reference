@@ -1,5 +1,7 @@
 ---
-description: '이 문서는 A complete guide to iconography(https://bre.is/HA9kEWEy) 를 한글 의역한 문서입니다.'
+description: >-
+  이 문서는 A complete guide to iconography(https://bre.is/HA9kEWEy) 를 한글 의역, 요약한
+  문서입니다.
 ---
 
 # iconography 이해하기
@@ -71,6 +73,26 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 아래 예시의 각 열에 해당하는 아이콘 세트는 기본이 되는 아이콘\(X 버튼, 햄버거 메뉴, 체크 아이콘 등\)은 없지만 각 아이콘 스타일이 가지고 있어야할 기본 원칙을 잘 나타낸다. 아이콘의 규칙을 결정할 때 나는 비교적 복잡하고 어려운 아이콘부터 시작하기를 권한다. 어려운 작업이 먼저 되면, 간단한 아이콘들을 디자인하는 것은 쉬울 것이다.
 
 ![5 product icons in 5 styles&#x2014;note how small differences make each set feel consistent and whole.](.gitbook/assets/12-icons-style-options-stroked.png)
+
+다음은 주요 회사의 비주얼 브랜드와 가치를 반영하는 아이콘 스타일 목록이다.
+
+* [Uber](https://brand.uber.com/guide#iconography-system-icons)
+* [Google](https://material.io/tools/icons/?style=baseline)
+* [Apple](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/)
+* [Airbnb](https://www.zachroszczewski.com/airbnb/)
+* [Square](https://www.bonniekatewolf.com/icon-system.html/)
+
+## 디자인시스템에서 아이콘 사용하기
+
+다른 조직 구성원이 아이콘을 액세스할 수 있도록 하는 것은 조직, 어셋 관리 및 인지도의 관점에서 접근해야 한다.
+
+### 네이밍
+
+먼저 파일 이름부터 정하자다. 아이콘은 어떤 것을 나타내는지가\(represent\) 아니라 어떻게 보여지는지를\(show\) 기준으로 네이밍되어야 한다. 예를 들어, 스톱워치\(stopwatch\) 아이콘은 speed가 아니라 stopwatch라는 이름이 붙어야 한다. 전구\(lightbulb\)는 idea가 아니라 lightbulb라고 불러야 한다. 아이콘은 개념적인 수준에서 전달되는 것이 아니라, 즉시 사람들에게 그 아이콘이 무엇인지 명확히 전달되어야 한다. 짧은 이름도 더 좋다. 여러 단어가 필요할 경우 대시를 사용하여 단어를 구분하라. \(e.g. chef-hat\)
+
+
+
+
 
 
 
