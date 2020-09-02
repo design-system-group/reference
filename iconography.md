@@ -4,9 +4,12 @@ description: >-
   문서입니다.
 ---
 
+<div id="github-profile-card" data-id="kschoi" />
+<script src="https://unpkg.com/github-profile-card-component@latest/lib/scripts/index.js"></script>
+
 # iconography 이해하기
 
-아이콘은 모든 디자인 시스템이나 제품 경험에서 중요한 부분이다. 아이콘은 사용자가 빠르게 서비스를 탐색하도록 돕고 언어에 구애받지 않는다. 또한 아주 작아서 비용이 그다지 크지도 않다. 아이콘은 좋은 디자인 시스템의 기본적인 부분이며 마케팅 자료에 매우 유용하다. 아이콘은 일러스트레이션된 컨텐츠의 기초적인 구성 요소지만, 또한 매우 기술적이기도 하다. 아이콘을 디자인하는 것을 좋아하는 사람들은 많지 않고, 심지어 그것을 잘 하는 사람들은 더 적다. 
+아이콘은 모든 디자인 시스템이나 제품 경험에서 중요한 부분이다. 아이콘은 사용자가 빠르게 서비스를 탐색하도록 돕고 언어에 구애받지 않는다. 또한 아주 작아서 비용이 그다지 크지도 않다. 아이콘은 좋은 디자인 시스템의 기본적인 부분이며 마케팅 자료에 매우 유용하다. 아이콘은 일러스트레이션된 컨텐츠의 기초적인 구성 요소지만, 또한 매우 기술적이기도 하다. 아이콘을 디자인하는 것을 좋아하는 사람들은 많지 않고, 심지어 그것을 잘 하는 사람들은 더 적다.
 
 디자인 시스템 전문가, 일러스트레이터 또는 프로덕트 디자이너가 되든, 이 가이드는 아이콘을 만드는 방법, 브랜드에 맞게 정렬하는 방법, 디자인 시스템에 구현하는 방법 등을 배울 수 있도록 도와준다. 기본부터 시작해보자.
 
@@ -16,7 +19,7 @@ description: >-
 
 ### Size
 
-**아이콘의 핵심은 일관성이다.** 아이콘을 만들 때 모든 아이콘의 크기가 같아야 한다. 그러려면, 서비스의 그리드가 어떻게 정의되는지 알아둘 필요가 있다\(그리드가 8 또는 10의 배수인지?\). 그 다음, 기본 아이콘 크기는 그리드와 직접적으로 관련되어야 한다. 8의 배수 기준의 그리드를 가지고 있다면, 아이콘은 16, 24, 32 크기로 사용될 것이다. 모든 아이콘에 대한 하나의 기준 사이즈를 선택한 후, 엔지니어가 다른 디자이너가 디자인한 다른 크기로 확장할 수 있도록 한다. 
+**아이콘의 핵심은 일관성이다.** 아이콘을 만들 때 모든 아이콘의 크기가 같아야 한다. 그러려면, 서비스의 그리드가 어떻게 정의되는지 알아둘 필요가 있다\(그리드가 8 또는 10의 배수인지?\). 그 다음, 기본 아이콘 크기는 그리드와 직접적으로 관련되어야 한다. 8의 배수 기준의 그리드를 가지고 있다면, 아이콘은 16, 24, 32 크기로 사용될 것이다. 모든 아이콘에 대한 하나의 기준 사이즈를 선택한 후, 엔지니어가 다른 디자이너가 디자인한 다른 크기로 확장할 수 있도록 한다.
 
 글리프 복잡성이 필요할 때, 그 때 크기를 추가하기 시작한다. 예를 들어, 기준 아이콘은 24px 이지만 실제 마케팅에서 아이콘은 80px로 사용될 가능성이 다분하다. 이 때, 두감에 대한 일관성을 유지하면서 더 큰 사이즈에 대한 디테일을 추가하고 싶어질 것이다.
 
@@ -48,7 +51,7 @@ description: >-
 
 시각적으로, 지배적인 오브젝트는 수직과 수평 둘 다 중앙에 위치해야 한다.
 
-![Dominant object \(rectangle\) is centered](.gitbook/assets/09-optical-grid-05.png)
+![Dominant object (rectangle) is centered](.gitbook/assets/09-optical-grid-05.png)
 
 ### Strokes and fills
 
@@ -64,7 +67,7 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 
 ![](.gitbook/assets/11-icons-style-options.png)
 
-10px보다 작은 크기의 아이콘\(stroke의 두께가 1px-2px 사이\)은 이해도가 떨어지므로 권장하지 않는다. 
+10px보다 작은 크기의 아이콘\(stroke의 두께가 1px-2px 사이\)은 이해도가 떨어지므로 권장하지 않는다.
 
 ### Style choices <a id="style-choices"></a>
 
@@ -72,15 +75,15 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 
 아래 예시의 각 열에 해당하는 아이콘 세트는 기본이 되는 아이콘\(X 버튼, 햄버거 메뉴, 체크 아이콘 등\)은 없지만 각 아이콘 스타일이 가지고 있어야할 기본 원칙을 잘 나타낸다. 아이콘의 규칙을 결정할 때 나는 비교적 복잡하고 어려운 아이콘부터 시작하기를 권한다. 어려운 작업이 먼저 되면, 간단한 아이콘들을 디자인하는 것은 쉬울 것이다.
 
-![5 product icons in 5 styles&#x2014;note how small differences make each set feel consistent and whole.](.gitbook/assets/12-icons-style-options-stroked.png)
+![5 product icons in 5 styles—note how small differences make each set feel consistent and whole.](.gitbook/assets/12-icons-style-options-stroked.png)
 
 다음은 주요 회사의 비주얼 브랜드와 가치를 반영하는 아이콘 스타일 목록이다.
 
-* [Uber](https://brand.uber.com/guide#iconography-system-icons)
-* [Google](https://material.io/tools/icons/?style=baseline)
-* [Apple](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/)
-* [Airbnb](https://www.zachroszczewski.com/airbnb/)
-* [Square](https://www.bonniekatewolf.com/icon-system.html/)
+- [Uber](https://brand.uber.com/guide#iconography-system-icons)
+- [Google](https://material.io/tools/icons/?style=baseline)
+- [Apple](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/)
+- [Airbnb](https://www.zachroszczewski.com/airbnb/)
+- [Square](https://www.bonniekatewolf.com/icon-system.html/)
 
 ## 디자인시스템과 아이콘
 
@@ -106,11 +109,6 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 
 시각적 variant\(예: 여러 통화 표\)가 있는 아이콘이 있는 경우, filled 아이콘과 stroked 아이콘과 동일한 방법으로 이름을 지정하여 구별할 수 있다.
 
-![Original icon on left would be &apos;shield&apos;. Then, left to right, &apos;shield/dollar&apos;, &apos;shield/euro&apos;, &apos;shield/pound&apos;, &apos;shield/yen&apos;, &apos;shield/plus&apos;](.gitbook/assets/25-shields.png)
+![Original icon on left would be 'shield'. Then, left to right, 'shield/dollar', 'shield/euro', 'shield/pound', 'shield/yen', 'shield/plus'](.gitbook/assets/25-shields.png)
 
 ### 어셋 관리
-
-
-
-
-
