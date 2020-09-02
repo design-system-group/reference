@@ -5,7 +5,6 @@ description: >-
 ---
 
 <div id="github-profile-card" data-id="kschoi" />
-<script type="text/javascript" src="https://unpkg.com/github-profile-card-component@latest/lib/scripts/index.js"></script>
 
 # iconography 이해하기
 

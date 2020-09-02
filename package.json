@@ -18,6 +18,7 @@
 	"homepage": "https://github.com/design-system-group/reference#readme",
 	"dependencies": {
 		"gitbook-cli": "^2.3.2",
-		"gitbook-plugin-hints": "^1.0.2"
+		"gitbook-plugin-hints": "^1.0.2",
+		"github-profile-card-component": "^1.0.14"
 	}
 }
