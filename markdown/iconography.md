@@ -4,7 +4,7 @@ description: >-
   문서입니다.
 ---
 
-[<img src="../images/kschoi.jpeg" />](https://github.com/kschoi)
+[![kschoi's github profile](../images/kschoi.jpeg)](https://github.com/kschoi)
 
 # iconography 이해하기
 
