@@ -4,7 +4,7 @@ description: ㅈㅂㄷㄼㅈㄷㄹ
 
 # Writer. [심재철](https://github.com/simsimjae)
 
-![](../images/simsimjae.png)
+![](../.gitbook/assets/simsimjae.png)
 
 # hello world
 

@@ -1,4 +1,5 @@
 const puppeteer = require("puppeteer");
+const path = require("path");
 
 const makeProfile = async (options) => {
   const browser = await puppeteer.launch();
@@ -7,7 +8,7 @@ const makeProfile = async (options) => {
   await page.addScriptTag({ url: "https://unpkg.com/github-profile-card-component@latest/lib/scripts/index.js" });
   await page.setViewport({ width: options.width ? parseInt(options.width, 10) + 30 : 600, height: options.height ? parseInt(options.height, 10) + 30 : 300, deviceScaleFactor: 4 });
   await page.waitFor(3000);
-  await page.screenshot({ path: `images/${options.id}.png`, type: "png" });
+  await page.screenshot({ path: path.resolve(__dirname, `../.gitbook/assets/${options.id}.png`), type: "png" });
   await browser.close();
 };
 
