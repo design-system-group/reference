@@ -2,7 +2,9 @@
 description: ㅈㅂㄷㄼㅈㄷㄹ
 ---
 
-<a href="https://github.com/simsimjae">![](../images/simsimjae.jpeg)</a>
+# Writer. [심재철](https://github.com/simsimjae)
+
+![https://github.com/simsimjae](../images/simsimjae.png)
 
 # hello world
 
