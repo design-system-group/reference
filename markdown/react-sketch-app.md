@@ -11,8 +11,6 @@
 
 ### 매끄러운 실시간 데이터 통합
 
-![](https://airbnb.design/wp-content/uploads/2017/04/Foursquare-Maps.mp4)
-
 # [Written by 심재철](https://github.com/simsimjae)
 
 ![](../.gitbook/assets/simsimjae.png)
