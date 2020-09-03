@@ -66,16 +66,16 @@ airbnb에서 만든 [React Sketch.app](react-sketch-app.md)(이하 스케치앱)
 ### 디자인 시스템 프로세스
 
 1. 디자이너가 디자인하는 순간 실제 컴포넌트를 import하여 디자인한다.
-2. 불러온 컴포넌트를 수정하거나 조합하여 새롭게 **JSON 형태로 export**하여 디자인 시스템에 업데이트 한다.
+2. 불러온 컴포넌트를 수정하거나 조합하여 새롭게 **JSON 형태로 export**한다.
 3. **Meta Lang**을 통해 리액트 코드로 변환하고
 4. **NPM Private Repository**에 배포 하면 Framer X, Storybook, APP등에서 import해서 사용한다.
 
 ### 구현된 추가 기능들
 
-1. 디자인 시스템에 있는 컴포넌트들을 스케치에서 브라우징 해볼수도 있다. (디자인 시스템과 스케치앱 사이 변환)
+1. 디자인 시스템에 있는 컴포넌트들을 스케치에서 브라우징 해볼수도 있다.
 2. Meta Lang → 리액트 컴포넌트 자동 변환은 아직 구현하지 못했다. 지금은 팀을 만들어서 수동으로 하고 있다.
 3. 스케치만 가지고선, 실제 환경에서 돌아가는 디자인 상태를 볼 수 없어서 **스토리북**으로 퍼블리싱해서 실제 환경에서 볼 수 있도록 구성했다.
 
 ### 시스템 요약
 
-Design → JSON Export → Meta Lang → React Component
+**Design** → JSON Export → Meta Lang → **React Component**
