@@ -108,4 +108,6 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 
 ![Original icon on left would be 'shield'. Then, left to right, 'shield/dollar', 'shield/euro', 'shield/pound', 'shield/yen', 'shield/plus'](../.gitbook/assets/25-shields.png)
 
-#### 어셋 관리
+# [Written by 최경선](https://github.com/kschoi)
+
+![](../.gitbook/assets/kschoi.png)
