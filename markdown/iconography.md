@@ -4,7 +4,7 @@ description: >-
   문서입니다.
 ---
 
-<div id="github-profile-card" data-id="kschoi" />
+[<img src="../images/kschoi.jpeg" />](https://github.com/kschoi)
 
 # iconography 이해하기
 

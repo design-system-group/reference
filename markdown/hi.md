@@ -2,8 +2,8 @@
 description: ㅈㅂㄷㄼㅈㄷㄹ
 ---
 
-# hello world
+[<img src="../images/simsimjae.jpeg" />](https://github.com/simsimjae)
 
-![simsimjae's github profile](../images/simsimjae.jpeg)
+# hello world
 
 안녕하세요
