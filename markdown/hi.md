@@ -2,7 +2,7 @@
 description: ㅈㅂㄷㄼㅈㄷㄹ
 ---
 
-[![simsimjae's github profile](../images/simsimjae.jpeg)](https://github.com/simsimjae)
+![simsimjae's github profile](../images/simsimjae.jpeg)
 
 # hello world
 
