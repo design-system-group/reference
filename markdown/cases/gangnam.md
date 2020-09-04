@@ -1,4 +1,4 @@
-# 강남언니의 디자인 시스템
+# [강남언니의 디자인 시스템](https://blog.gangnamunni.com/post/welchis/)
 
 Cell(앱, 모바일)과 Welchis(백오피스, PC) 두가지 디자인 시스템 설계함.
 플랫폼 별 디자인이 많이 다르기 때문에 두개나 만들었음.
