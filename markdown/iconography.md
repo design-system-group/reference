@@ -1,6 +1,6 @@
 ![](../.gitbook/assets/kschoi.png)
 
-이 문서는 Bonnie Kate Wolf의 A complete guide to iconography(https://www.designsystems.com/iconography-guide/)의 일부분을 의역한 문서입니다. 자세한 내용은 원문을 참조하시기 바랍니다.
+이 문서는 Bonnie Kate Wolf의 [A complete guide to iconography](https://www.designsystems.com/iconography-guide/)의 일부분을 의역한 문서입니다. 자세한 내용은 원문을 참조하시기 바랍니다.
 
 ## iconography 이해하기
 
