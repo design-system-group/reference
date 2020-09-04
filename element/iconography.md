@@ -8,7 +8,7 @@
 
 디자인 시스템 전문가, 일러스트레이터 또는 프로덕트 디자이너가 되든, 이 가이드는 아이콘을 만드는 방법, 브랜드에 맞게 정렬하는 방법, 디자인 시스템에 구현하는 방법 등을 배울 수 있도록 도와준다. 기본부터 시작해보자.
 
-![](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/1-venn-diagram.png)
+![](../.gitbook/assets/1-venn-diagram.png)
 
 #### 아이콘의 기본 요소
 
@@ -18,35 +18,35 @@
 
 글리프 복잡성이 필요할 때, 그 때 크기를 추가하기 시작한다. 예를 들어, 기준 아이콘은 24px 이지만 실제 마케팅에서 아이콘은 80px로 사용될 가능성이 다분하다. 이 때, 두감에 대한 일관성을 유지하면서 더 큰 사이즈에 대한 디테일을 추가하고 싶어질 것이다.
 
-![Shop icon at 24x24, 40x40, and 80x80](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/2-houses.png)
+![Shop icon at 24x24, 40x40, and 80x80](../.gitbook/assets/2-houses.png)
 
 같은 아이콘을 다른 크기로 만들 때, 나는 가장 큰 사이즈로 시작해서 축소해 나가는 것을 좋아한다. 키우면서 요소를 더하는 것보다 디테일을 없애고 단순화하는 것이 훨씬 쉽다. 이러한 방법은 최소화하기 전에 오브젝트에 대한 감각을 준다.
 
 {% hint style="info" %}
 글리프는 윤곽선 글꼴 데이터에서 글자 하나의 모양에 대한 기본 단위를 말한다.
 
-![](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 {% endhint %}
 
 **Color**
 
 프로덕트 아이콘의 경우 검은색 1가지 색상을 사용하라. 그 이상이면 컴포넌트들이 너무 복잡해지고 다른 디자이너들이 활용하기에는 어려울 것이다. 마케팅 아이콘의 경우, 브랜드에서 중요한 부분이라면 2가지 색상을 사용하고 싶을 수도 있지만, 나는 개인적으로 아이콘이 하나의 색이어야 한다고 생각한다. 3가지 이상의 색상을 가진 것은 모두 일러스트일 뿐, 아이콘은 아니다.
 
-![Left: spot illustration. Middle: icon with perspective. Right: flat icon.](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/3-drinks.png)
+![Left: spot illustration. Middle: icon with perspective. Right: flat icon.](../.gitbook/assets/3-drinks.png)
 
 **Grids**
 
 **픽셀 그리드\(pixel grid\)**는 가장 작은 단위인 픽셀을 사용하는 기본 그리드다. 그리드를 사용하면 배치의 일관성을 유지할 수 있도록 도와주며, 전체적인 아이콘의 형태가 좋아질 것이다. Figma를 사용한다면, 'on-pixel'과 off의 차이점을 쉽게 볼 수 있다.
 
-![Left: On pixel. Right: Off pixel.](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/group__10_.png)
+![Left: On pixel. Right: Off pixel.](../.gitbook/assets/group__10_.png)
 
 픽셀 그리드를 익혔다면, **옵티컬 그리드\(optical grid\)**를 다룰 차례다. 옵티컬 그리드는 아이콘의 중심이 어디에 있는지, 그리고 그것이 사람의 눈으로 얼마나 큰지 알아내는 데 도움을 준다. 원과 곡선 오브젝트는 사각형보다 시각적 공간을 적게 차지한다. 아이콘을 내보낼 때 모두 동일한 치수가 되도록 고정 크기 컨테이너에 넣는 것이 가장 좋다. 이 내부 패딩을 추가하면 나중에 개발 시 추가적인 번거로움 없이 광학/지각적 가중치를 지원할 수 있다.
 
-![](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/group__11_.png)
+![](../.gitbook/assets/group__11_.png)
 
 시각적으로, 지배적인 오브젝트는 수직과 수평 둘 다 중앙에 위치해야 한다.
 
-![Dominant object \(rectangle\) is centered](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/09-optical-grid-05.png)
+![Dominant object \(rectangle\) is centered](../.gitbook/assets/09-optical-grid-05.png)
 
 **Strokes and fills**
 
@@ -56,11 +56,11 @@
 
 stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. stroked 사이의 여백이 stroke 두께보다 얇지 않도록 권한다.
 
-![Distance between stokes should reflect stroke weight whenever possible](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/10-trash.png)
+![Distance between stokes should reflect stroke weight whenever possible](../.gitbook/assets/10-trash.png)
 
 한 가지 스타일은 충족하지만 다른 스타일은 충족시키지 못하는 아이콘 세트가 있을 수 있다. stroked 아이콘의 filled 버전을 만든다면 라인 작업을 단순화하는 것이 필요하다. 이상적으로 filled 아이콘은 반전된 stroked 아이콘이라기 보다는 그림자 같다. 반대로 filled 아이콘의 stroked 버전을 만드는 것은, 공간에 맞는 stroke 두께와 명확성을 유지하면서 어떤 디테일을 추가할지를 결정해야 한다는 것을 의미한다.
 
-![](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/11-icons-style-options.png)
+![](../.gitbook/assets/11-icons-style-options.png)
 
 10px보다 작은 크기의 아이콘\(stroke의 두께가 1px-2px 사이\)은 이해도가 떨어지므로 권장하지 않는다.
 
@@ -98,15 +98,15 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 
 둘 다 사용한다면 아이콘 네이밍 뒤에 슬래시를 붙여서 구분한다.
 
-![Left: coffee/stroked. Right: coffee/filled](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/24-coffees.png)
+![Left: coffee/stroked. Right: coffee/filled](../.gitbook/assets/24-coffees.png)
 
 **이미지 조정**
 
 시각적 variant\(예: 여러 통화 표\)가 있는 아이콘이 있는 경우, filled 아이콘과 stroked 아이콘과 동일한 방법으로 이름을 지정하여 구별할 수 있다.
 
-![Original icon on left would be &apos;shield&apos;. Then, left to right, &apos;shield/dollar&apos;, &apos;shield/euro&apos;, &apos;shield/pound&apos;, &apos;shield/yen&apos;, &apos;shield/plus&apos;](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/25-shields.png)
+![Original icon on left would be &apos;shield&apos;. Then, left to right, &apos;shield/dollar&apos;, &apos;shield/euro&apos;, &apos;shield/pound&apos;, &apos;shield/yen&apos;, &apos;shield/plus&apos;](../.gitbook/assets/25-shields.png)
 
 ## [Written by 최경선](https://github.com/kschoi)
 
-![](https://github.com/design-system-group/reference/tree/975782616ce7867f69255693cb6f4a4584f72961/markdown/.gitbook/assets/kschoi.png)
+![](../.gitbook/assets/kschoi.png)
 
