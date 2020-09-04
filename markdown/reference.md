@@ -1,6 +1,6 @@
 # [ Written by 심재철](https://github.com/simsimjae)
 
-![](../.gitbook/assets/simsimjae.png)
+![](../.gitbook/assets/simsimjae.png)(https://github.com/simsimjae)
 
 # [케어닥의 디자인 시스템](https://brunch.co.kr/@fifthsage/4)
 
