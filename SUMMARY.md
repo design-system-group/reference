@@ -2,8 +2,9 @@
 
 - [iconography 이해하기](markdown/iconography.md)
 - 디자인시스템 적용 사례들
-  - [케어닥](markdown/cases/caredoc.md)
   - [우아한형제들](markdown/cases/bamin.md)
+	- [강남언니](markdown/cases/gangnam.md)
   - [쏘카](markdown/cases/socar.md)
+  - [케어닥](markdown/cases/caredoc.md)
 - 디자인시스템 도구
   - [React Sketch.app](markdown/react-sketch-app.md)
