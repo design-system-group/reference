@@ -80,3 +80,8 @@ Framer X로 가져와서 그대로 렌더링할 수 있다.
 프레이머의 컨트롤 패널에서 `Course > Text` 부분에 값을 수정할 수 있게 만들기 위해서 `PropertyControls`를 추가한 것일 뿐이다.
 
 이렇듯 디자인툴과 코드를 유연하게 연결할 수 있는것이 프레이머의 가장 큰 장점이다.
+
+## [Written by 심재철](https://github.com/simsimjae)
+
+![](../.gitbook/assets/simsimjae.png)
+
