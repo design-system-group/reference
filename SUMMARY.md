@@ -2,7 +2,7 @@
 
 - [Introduction](README.md)
 
-* [디자인시스템에 관한 여러 의견들](markdown/opinion.md)
+* [디자인시스템에 관한 여러 의견들](opinion.md)
 
 - [디자인시스템 적용 사례들](cases/README.md)
   - [우아한형제들](cases/bamin.md)
