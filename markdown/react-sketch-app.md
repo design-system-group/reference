@@ -1,7 +1,3 @@
-# [Written by 심재철](https://github.com/simsimjae)
-
-![](../.gitbook/assets/simsimjae.png)
-
 # 스케치와 리액트를 연결해주는 도구 [React Sketch.app](https://airbnb.design/painting-with-code/) (by airbnb)
 
 # 소개
@@ -87,3 +83,7 @@ airbnb에서는 조직이 커짐에 따라 디자인 시스템 관리에 큰 어
 1. 큰 규모의 기업에서 사용하는 시스템에서 중요한것은, **Sources of Truth**를 최소화 하는것이다.
 2. 그 방법 중 하나로 리액트 코드를 스케치에서 렌더링해서 사용하는 방법을 생각 해 냈다.
 3. 그래서 **React Sketch.app**을 만들었다.
+
+# [Written by 심재철](https://github.com/simsimjae)
+
+![](../.gitbook/assets/simsimjae.png)

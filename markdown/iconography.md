@@ -1,5 +1,3 @@
-![](../.gitbook/assets/kschoi.png)
-
 이 문서는 Bonnie Kate Wolf의 [A complete guide to iconography](https://www.designsystems.com/iconography-guide/)의 일부분을 의역한 문서입니다. 자세한 내용은 원문을 참조하시기 바랍니다.
 
 ## iconography 이해하기
@@ -105,3 +103,7 @@ stroke 아이콘을 만들려면 획이 모두 같은 무게여야 한다. strok
 시각적 variant\(예: 여러 통화 표\)가 있는 아이콘이 있는 경우, filled 아이콘과 stroked 아이콘과 동일한 방법으로 이름을 지정하여 구별할 수 있다.
 
 ![Original icon on left would be 'shield'. Then, left to right, 'shield/dollar', 'shield/euro', 'shield/pound', 'shield/yen', 'shield/plus'](../.gitbook/assets/25-shields.png)
+
+# [Written by 최경선](https://github.com/kschoi)
+
+![](../.gitbook/assets/kschoi.png)

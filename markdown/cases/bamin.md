@@ -1,19 +1,3 @@
-# [ Written by 심재철](https://github.com/simsimjae)
-
-![](../.gitbook/assets/simsimjae.png)(https://github.com/simsimjae)
-
-# [케어닥의 디자인 시스템](https://brunch.co.kr/@fifthsage/4)
-
-## 요약
-
-- 아토믹 디자인 사용
-- 디자인에서도 아토믹 디자인 5단계 구조(atoms, molecules, organisms, ...)에 맞춤.
-- 디자이너들이 디자인한 컴포넌트들을 제플린에 업로드해주면 개발자들은 제플린의 스타일 가이드를 참고해서 실제 컴포넌트에 그대로 반영
-
-![제플린의 스타일 가이드(자동으로 CSS를 만들어줌)](../.gitbook/assets/2020-09-03-16-10-02.png)
-
-위 스타일 가이드를 참고하여 개발자들은 실제로 컴포넌트를 작성한다.
-
 # [우아한 형제들의 디자인 시스템](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0#%EC%9A%B0%EC%95%84%ED%95%9C%ED%98%95%EC%A0%9C%EB%93%A4---%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%8A%94-%EA%B8%B8)
 
 ## 배달의 민족에서 디자인 시스템을 적용하기로 한 이유
@@ -75,3 +59,7 @@ airbnb에서 만든 [React Sketch.app](react-sketch-app.md)(이하 스케치앱)
 ### 시스템 요약
 
 **Design** → JSON Export → Meta Lang → **React Component**
+
+# [Written by 심재철](https://github.com/simsimjae)
+
+![](../../.gitbook/assets/simsimjae.png)
