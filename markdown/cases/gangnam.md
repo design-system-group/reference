@@ -21,3 +21,7 @@ Cell(앱, 모바일)과 Welchis(백오피스, PC) 두가지 디자인 시스템 
 # Welchis Editor
 ![](images/2020_09_04_11_01_28.png)
 누구나 쉽게 이미 만들어진 리액트 컴포넌트를 디자인 툴로 불러와 조합해볼 수 있는 에디터를 만들 예정이다.
+
+# [Written by 심재철](https://github.com/simsimjae)
+
+![](../../.gitbook/assets/simsimjae.png)
