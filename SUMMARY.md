@@ -1,6 +1,4 @@
 # Table of contents
-
-- [iconography 이해하기](markdown/iconography.md)
 - 디자인시스템 적용 사례들
   - [우아한형제들](markdown/cases/bamin.md)
   - [쏘카](markdown/cases/socar.md)
@@ -8,3 +6,5 @@
   - [강남언니](markdown/cases/gangnam.md)
 - 디자인시스템 도구
   - [React Sketch.app](markdown/react-sketch-app.md)
+- 디자인시스템 구성요소
+  - [iconography](markdown/iconography.md)
