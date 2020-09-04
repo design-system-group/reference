@@ -5,6 +5,6 @@
   - [케어닥](markdown/cases/caredoc.md)
   - [강남언니](markdown/cases/gangnam.md)
 - 디자인시스템 도구
-  - [React Sketch.app](markdown/react-sketch-app.md)
+  - [React Sketch.app](markdown/tools/react-sketch-app.md)
 - 디자인시스템 구성요소
-  - [iconography](markdown/iconography.md)
+  - [iconography](markdown/element/iconography.md)
