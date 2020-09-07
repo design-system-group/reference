@@ -76,6 +76,7 @@ export const App = () => {
 ```
 
 다시 피그마로 돌아가서
+
 ![](../.gitbook/assets/2020_09_07_09_31_08.png)
 
 Run Last Plugin을 누르거나 Ctrl + Alt + P(윈도우), ⌥⌘P(맥)을 통해서 플러그인을 재실행시켜보자.
