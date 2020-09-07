@@ -4,6 +4,8 @@ react-figma에서 제공하는 컴포넌트를 사용하게 되면 리액트 코
 
 따라서, 플랫폼에 종속적이지 않은 라이브러리의 컴포넌트를 사용하는것이 좋은데 그 문제를 해결해주는게 바로 `react-primitives`이다.
 
+하지만 이 라이브러리는 현재 베타버전이라 불안정하고 API에 많은 변화가 있을 수 있기 때문에 Production에 적용하기엔 무리가 있어 보인다.
+
 # [react-primitives란?](https://github.com/lelandrichardson/react-primitives)
 
 [공식문서](https://github.com/lelandrichardson/react-primitives)에는 이 라이브러리를 이렇게 소개하고 있다.
