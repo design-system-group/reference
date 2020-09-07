@@ -9,7 +9,7 @@
   - [강남언니](cases/gangnam.md)
 - [디자인시스템 도구](tools/README.md)
   - [React Sketch.app](tools/react-sketch-app.md)
-	- [react-figma](tools/react-figma.md)
+  - [react-figma](tools/react-figma.md)
 - [디자인시스템 구성요소](element/README.md)
   - [iconography](element/iconography.md)
 - [디자인 시스템 적용 스텝](steps/README.md)
