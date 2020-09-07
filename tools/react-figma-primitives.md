@@ -6,7 +6,7 @@ react-figma에서 제공하는 컴포넌트를 사용하게 되면 리액트 코
 
 # [react-primitives란?](https://github.com/lelandrichardson/react-primitives)
 
-[공식문서](https://github.com/lelandrichardson/react-primitives)에는 이 라이브러리르 이렇게 소개하고 있다.
+[공식문서](https://github.com/lelandrichardson/react-primitives)에는 이 라이브러리를 이렇게 소개하고 있다.
 
 이 라이브러리는 플랫폼에 상관없이 리액트 애플리케이션을 빌드할수 있는 원시적인 요소의 집합입니다.
 미래에는 이 라이브러리가 `react`와 `react-native`의 공통 컴포넌트로 사용 될 것입니다.
