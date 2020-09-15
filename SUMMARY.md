@@ -14,11 +14,11 @@
 
 * [React Sketch.app](undefined-1/react-sketch-app.md)
 * [react-figma](undefined-1/react-figma/README.md)
-  * [플러그인 배포하기](undefined-1/react-figma/undefined-1.md)
   * [한계점](undefined-1/react-figma/undefined-1-1.md)
   * [react-primitives 적용하기](undefined-1/react-figma/react-figma-primitives.md)
   * [작동방식](undefined-1/react-figma/undefined.md)
   * [Plugin Manifest](undefined-1/react-figma/plugin-manifest.md)
+  * [플러그인 배포하기](undefined-1/react-figma/undefined-1-1-1.md)
 
 ## 디자인시스템 구성요소 <a id="undefined-2"></a>
 
