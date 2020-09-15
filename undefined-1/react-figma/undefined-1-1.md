@@ -16,6 +16,10 @@ import { View, Text, StyleSheet } from "react-primitives"; // 플랫폼 상관�
 
 두 라이브러리에서 제공하는 컴포넌트만을 사용해야 한다. **react-figma, react-sketchapp**도 내부적으로는 **react-primitives**를 사용한다.
 
+### 베타 버전이라 불안정하다. 
+
+공식문서에서도 해당 라이브러리가 **베타버전**이고 언제든 **API가 변경**될 수 있고 **버그**가 있을 수 있으니 주의해서 사용하라는 말이 나와있다.
+
 ### **컴포넌트의 종류가 한정적이다. \(**react-primitives\)
 
 ####  react-primitives에서 제공하는 컴포넌트 목록 
