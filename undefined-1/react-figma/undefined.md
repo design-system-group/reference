@@ -44,4 +44,10 @@ Main Context와 UI Context는 서로 이벤트 기반의 메세징 시스템으�
 ### 할 수 없는것
 
 * 열려있지 않은 figma document에 대한 조작
-* 
+
+
+
+### [Written by 심재철](https://github.com/simsimjae)
+
+![](../../.gitbook/assets/simsimjae.png)
+

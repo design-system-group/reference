@@ -37,3 +37,11 @@ main context가 작동하는 코드는 이렇게 생겼다.
 
 \_\_html\_\_부분에 우리가 manifest에서 설정했던 html파일이 문자열 형태로 들어가게 된다.
 
+
+
+
+
+### [Written by 심재철](https://github.com/simsimjae)
+
+![](../../.gitbook/assets/simsimjae.png)
+
