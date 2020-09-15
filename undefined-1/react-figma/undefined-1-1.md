@@ -61,6 +61,14 @@ import { View, Text, StyleSheet } from "react-primitives"; // 플랫폼 상관�
 
 **위와 같은 한계점을 알고나서도 프로젝트에 적용해보고 싶은 사람만 다음글을 읽자.**
 
+\*\*\*\*
+
+\*\*\*\*
+
+### [Written by 심재철](https://github.com/simsimjae)
+
+![](../../.gitbook/assets/simsimjae.png)
+
 
 
 
