@@ -45,6 +45,18 @@ import { View, Text, StyleSheet } from "react-primitives"; // 플랫폼 상관�
 
  문제는, **개발자가 두 곳\(피그마, 스토리북\)을 관리해야한다**는것이고 **디자이너들은 새롭게 반영된 플러그인을 재설치**해야하는 불편함이 존재한다. \(피그마에서 플러그인 자동 업데이트 기능을 제공하지 않는 것 같다.\) **새롭게 배포된 플러그인은 재설치 했을때만 업데이트 되는 현상을 확인했다.**
 
+ 혹시 발견하지 못한 플러그인 배포 방법을 찾아보던 찰나, 공식문서에 다음 문장을 발견하였다.
+
+> Users must use the Desktop App to develop plugins. [Download the Figma Desktop app](https://www.figma.com/downloads/). The Desktop App is only available for macOS and Windows.
+>
+>  You can only submit plugins from the [Figma Desktop app](https://help.figma.com/hc/en-us/articles/360039823654).
+
+
+
+ **플러그인 개발과 배포를 위해선 반드시 Figma Desktop App을 사용해야 한다.** 
+
+**즉 cli를 통한 배포 자동화가 불가능 하다는 얘기다.**
+
 
 
 **위와 같은 한계점을 알고나서도 프로젝트에 적용해보고 싶은 사람만 다음글을 읽자.**
