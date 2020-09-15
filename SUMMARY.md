@@ -1,23 +1,25 @@
-# 디자인시스템 구축 가이드
+# Table of contents
 
-- [Introduction](README.md)
-- [디자인시스템에 관한 여러 의견들](opinion.md)
+* [Introduction](README.md)
+* [디자인시스템에 관한 여러 의견들](opinion.md)
 
 ## 디자인시스템 적용 사례들
 
-* [우아한형제들](cases/bamin.md)
-* [쏘카](cases/socar.md)
-* [케어닥](cases/caredoc.md)
-* [강남언니](cases/gangnam.md)
+* [우아한형제들](undefined/bamin.md)
+* [쏘카](undefined/socar.md)
+* [케어닥](undefined/caredoc.md)
+* [강남언니](undefined/gangnam.md)
 
-### 디자인시스템 도구
+## 디자인시스템 도구 <a id="undefined-1"></a>
 
-- [React Sketch.app](tools/react-sketch-app.md)
-- [react-figma](tools/react-figma.md)
-  - [react-primitives 적용하기](tools/react-figma-primitives.md)
+* [React Sketch.app](undefined-1/react-sketch-app.md)
+* [react-figma](undefined-1/react-figma/README.md)
+  * [작동방식](undefined-1/react-figma/undefined.md)
+  * [react-primitives 적용하기](undefined-1/react-figma/react-figma-primitives.md)
 
-### 디자인시스템 구성요소
+## 디자인시스템 구성요소 <a id="undefined-2"></a>
 
-- [iconography](element/iconography.md)
-- [디자인 시스템 적용 스텝](steps/README.md)
-  - [어떤 디자인 툴을 선택해야 할까?](steps/design-tool.md)
+* [iconography](undefined-2/iconography.md)
+* [디자인 시스템 적용 스텝](undefined-2/steps/README.md)
+  * [어떤 디자인 툴을 선택해야 할까?](undefined-2/steps/design-tool.md)
+
