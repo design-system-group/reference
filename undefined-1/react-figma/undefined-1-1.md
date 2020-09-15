@@ -18,6 +18,19 @@ import { View, Text, StyleSheet } from "react-primitives"; // 플랫폼 상관�
 
 ### **컴포넌트의 종류가 한정적이다. \(**react-primitives\)
 
+####  react-primitives에서 제공하는 컴포넌트 목
+
+* Animated: [animated](https://github.com/animatedjs/animated) 프로젝트에서 가져옴.
+* StyleSheet: React Native 스타일의 API를 똑같이 따라 만들었음.
+* View: 레이아웃의 기본이 되는 컴포넌트
+* Text: 텍스트 컴포넌트
+* Image: 이미지 컴포넌트
+* Touchable: 인터렉션 컴포넌트
+* Easing: `easing functions`의 모음집
+* Dimensions: 디바이스 dimensions를 가져옴
+* PixelRatio: 디바이스의 픽셀 density를 가져옴
+* Platform: iOS, Android, Web, Sketch ... 와 같은 플랫폼 중 현재 어떤 플랫폼에서 이 라이브러리가 실행되고 있는지를 가져옴.
+
 이 라이브러리에서 제공하는 컴포넌트들은 **"유니버셜 렌더링"**이라고 해서 플랫폼에 상관없이 리액트 컴포넌트를 작성할수 있게 해준다.  라이브러리 자체가 많은 케이스를 고려해야 하기 때문에 이런 한계가 존재 할 수 밖에 없다.
 
 심지어 2020.09월 기준으로 **Input 컴포넌트도 존재하지 않는다고 한다.** 물론 이벤트핸들러를 View에 달아서 어찌 구현은 할 순 있겠지만 다른 라이브러리들과의 충돌 가능성도 존재한다. 
