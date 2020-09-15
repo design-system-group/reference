@@ -18,7 +18,7 @@ import { View, Text, StyleSheet } from "react-primitives"; // 플랫폼 상관�
 
 ### **컴포넌트의 종류가 한정적이다. \(**react-primitives\)
 
-####  react-primitives에서 제공하는 컴포넌트 목
+####  react-primitives에서 제공하는 컴포넌트 목록 
 
 * Animated: [animated](https://github.com/animatedjs/animated) 프로젝트에서 가져옴.
 * StyleSheet: React Native 스타일의 API를 똑같이 따라 만들었음.
